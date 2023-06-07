@@ -1,4 +1,4 @@
-This project wis a Tenzies game built in React.
+A Tenzies game built in React.
 
 ![playing tenzies](https://github.com/RanimIsmail/Tenzies/blob/master/public/Tenzies.jpg)
 
